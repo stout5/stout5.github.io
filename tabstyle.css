@@ -1,0 +1,28 @@
+.nav{
+    text-align:left;
+    height:30px;
+    padding-left:14px;
+    padding-right:14px;
+    line-height:30px;
+    margin:0px;
+    display:inline-block;
+    font-size:13px;
+    color:black;
+    text-decoration:none;
+}
+.content{
+    text-align:center;
+}
+.para1{
+    text-align: left
+}
+.portfoliocontent{
+    text-align: center
+}
+.Project{
+    font-style: italic;
+    font-size: 40px
+}
+.green{
+    color: darkseagreen;
+}
